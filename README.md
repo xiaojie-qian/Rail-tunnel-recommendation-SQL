@@ -5,8 +5,8 @@ Recommend which pair of United States airports should be connected with a high-s
 1. Two airports are 300 and 400 miles apart
 2. Airline undertakes at least 5,000 (five thousand) flights per year on average in each direction between the two airports
 
-# Project 2 
-Create three new tables with data describing an underground tunneling project
+# Project 2: HDFs and S3 
+Create one new tables in HSFs with data of three files stored in AWS S3 to describle an underground tunneling project
 
 ## Description 
 Based on your analysis and on other factors, construction has begun on a tunnel connecting San Francisco and Los Angeles. The tunnel will be dug over a period of ten years. It will be dug in three different sections by three tunnel boring machines (TBMs) named Bertha II, Shai-Hulud, and Diggy McDigface.
